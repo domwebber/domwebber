@@ -15,5 +15,3 @@ I'm a software developer specialising in web applications (full stack) and softw
 - WordPress (Plugins & Themes) 🔌
 - CSS 💄
 - Sass (SCSS) 💍
-
-[![domwebber's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=domwebber&layout=compact)](https://github.com/domwebber)
