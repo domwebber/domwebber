@@ -15,3 +15,8 @@ I'm a software developer specialising in web applications (full stack) and softw
 - WordPress (Plugins & Themes) 🔌
 - CSS 💄
 - Sass (SCSS) 💍
+
+### My Work ✨
+
+- Bar Management and Stock Control (including stock control software development)
+- Full Stack development & Microservice development
