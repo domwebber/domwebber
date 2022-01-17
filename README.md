@@ -25,5 +25,5 @@ I'm a software developer specialising in web applications (full stack) and softw
 
 - [TheDerbyInn.co.uk](https://thederbyinn.co.uk) 🍹
   - NextJS
-  - Typescript
+  - TypeScript
   - TailwindCSS
