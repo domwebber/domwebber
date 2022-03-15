@@ -12,6 +12,7 @@ I'm a software developer specialising in web applications (full stack) and softw
 - NodeJS ☄️
 - Python 🐍
 - PHP 🐘
+- Symfony 🌐
 - WordPress (Plugins & Themes) 🔌
 - CSS 💄
 - Sass (SCSS) 💍
