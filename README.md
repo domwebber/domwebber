@@ -5,6 +5,7 @@ I'm a software developer specialising in web applications (full stack) and softw
 ### My skills 🏆
 
 - React ✨
+- NextJS ⛵
 - Vue 🚀
 - JavaScript 📏
 - TypeScript ❄️
