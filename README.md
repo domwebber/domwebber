@@ -17,6 +17,7 @@ I'm a software developer specialising in web applications (full stack) and softw
 - WordPress (Plugins & Themes) 🔌
 - CSS 💄
 - Sass (SCSS) 💍
+- Docker :whale: (Currently learning...)
 
 ### My Work ✨
 
