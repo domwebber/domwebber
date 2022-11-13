@@ -23,7 +23,7 @@ I'm a software developer specialising in web applications (full stack) and softw
 ### My Work ✨
 
 - Bar Management and Stock Control (including stock control software development) 🍷 @ [The Derby Inn](https://thederbyinn.co.uk)
-- Full Stack development & Microservice development 💻 @ [Lacey Tech](https://lacey-tech.com)
+- Full Stack & Microservice Software Development 💻 @ [Lacey Tech](https://lacey-tech.com)
 - Teaching Assistant 💃 @ [Basingstoke Academy of Dancing](https://www.basingstokeacademy.co.uk)
 - Contract Software Developer 🧑‍🏫 @ [The Priory Primary School](https://www.theprioryprimaryschool.org.uk)
 
