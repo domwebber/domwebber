@@ -29,7 +29,7 @@ I'm a software developer specialising in web applications (full stack) and softw
 
 ### My Portfolio 🎆
 
-- [Algorithms and Data Structures](https://github.com/domwebber/algorithms-and-data-structures) ⚙️ \
+- [Algorithms and Data Structures](https://github.com/domwebber/algorithms-and-data-structures) (Work In Progress) ⚙️ \
   *Example implementations of various algorithms and data structures, built by myself.* \
   Built on 👨‍💻:
   - TypeScript
