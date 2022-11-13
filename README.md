@@ -27,8 +27,16 @@ I'm a software developer specialising in web applications (full stack) and softw
 
 ### My Portfolio 🎆
 
-- [TheDerbyInn.co.uk](https://thederbyinn.co.uk) 🍹  
+- [Algorithms and Data Structures](https://github.com/domwebber/algorithms-and-data-structures) ⚙️ \
+  *Example implementations of various algorithms and data structures, built by myself.* \
+  Built on 👨‍💻:
+  - TypeScript
+  - Python
+  - Bash
+  - PHP
+  - Go
+- [TheDerbyInn.co.uk](https://thederbyinn.co.uk) 🍹 \
   Built On 👨‍💻:
-  - [NextJS](https://nextjs.org)
+  - [NextJS 13](https://nextjs.org)
   - [TypeScript](https://typescriptlang.org)
   - [TailwindCSS](https://tailwindcss.com)
