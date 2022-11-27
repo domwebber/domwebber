@@ -22,6 +22,7 @@ I'm a software developer specialising in web applications (full stack) and softw
 
 ### My Work ✨
 
+- Open Source Software Development 🌐 @ Relucent
 - Bar Management & Stock Control (including stock control software development) 🍷 @ [The Derby Inn](https://thederbyinn.co.uk)
 - Full Stack & Microservice Software Development 💻 @ [Lacey Tech](https://lacey-tech.com)
 - Teaching Assistant 💃 @ [Basingstoke Academy of Dancing](https://www.basingstokeacademy.co.uk)
