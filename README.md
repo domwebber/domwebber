@@ -28,6 +28,8 @@ I'm a software developer specialising in web applications (full stack) and softw
 - Teaching Assistant 💃 @ [Basingstoke Academy of Dancing](https://www.basingstokeacademy.co.uk)
 - Contract Software Developer 🧑‍🏫 @ [The Priory Primary School](https://www.theprioryprimaryschool.org.uk)
 
+> Contact me: <dom.webber@hotmail.com>
+
 ### My Portfolio 🎆
 
 - [Algorithms and Data Structures](https://github.com/domwebber/algorithms-and-data-structures) (Work In Progress) ⚙️ \
