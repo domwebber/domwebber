@@ -48,12 +48,9 @@ I'm a software developer specialising in web applications (full stack) and serve
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Medium: TypeScript + React Generic Component Typing](https://medium.com/@domwebberr/typescript-react-generic-component-typing-d01f59d9375b?source=rss-7e4c514c9a3c------2) 
-
-- [Stackoverflow: NextJS &amp; TypeScript Module parse failed: unexpected token](https://stackoverflow.com/questions/72686278/nextjs-typescript-module-parse-failed-unexpected-token) 
-
-- [Stackoverflow: Answer by Dom Webber for No &#39;Access-Control-Allow-Origin&#39; header is present on the requested resource &lpar;FLASK API / ReactJs&rpar;](https://stackoverflow.com/questions/65644658/no-access-control-allow-origin-header-is-present-on-the-requested-resource-fl/65644769#65644769) 
-
+- [Medium: TypeScript + React Generic Component Typing](https://medium.com/@domwebberr/typescript-react-generic-component-typing-d01f59d9375b?source=rss-7e4c514c9a3c------2)
+- [Stackoverflow: NextJS &amp; TypeScript Module parse failed: unexpected token](https://stackoverflow.com/questions/72686278/nextjs-typescript-module-parse-failed-unexpected-token)
+- [Stackoverflow: Answer by Dom Webber for No &#39;Access-Control-Allow-Origin&#39; header is present on the requested resource &lpar;FLASK API / ReactJs&rpar;](https://stackoverflow.com/questions/65644658/no-access-control-allow-origin-header-is-present-on-the-requested-resource-fl/65644769#65644769)
 <!-- BLOG-POST-LIST:END -->
 
 [typescript]: https://www.typescriptlang.org "TypeScript's Website"
