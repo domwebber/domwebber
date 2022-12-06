@@ -17,4 +17,5 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@domwebberr"
           feed_names: "Medium"
-          template: "- [$feedName: $title]($url) $newline"
+          template: "$newline- [$feedName: $title]($url) $newline"
+          tag_post_pre_newline: true
