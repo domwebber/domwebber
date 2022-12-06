@@ -44,6 +44,7 @@ I'm a software developer specialising in web applications (full stack) and serve
 ## Articles & Updates 📝
 <!-- BLOG-POST-LIST:START -->
 
+- [Medium: NextJS 13 + TailwindCSS Responsive Background Image](https://medium.com/@domwebberr/nextjs-13-tailwindcss-responsive-background-image-eb8ead82ab4e?source=rss-7e4c514c9a3c------2)
 - [Medium: TypeScript + React Generic Component Typing](https://medium.com/@domwebberr/typescript-react-generic-component-typing-d01f59d9375b?source=rss-7e4c514c9a3c------2)
 <!-- BLOG-POST-LIST:END -->
 
