@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1.8.0
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@domwebberr,https://stackoverflow.com/feeds/user/11928183"
           feed_names: "Medium,Stackoverflow"
