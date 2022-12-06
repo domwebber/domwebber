@@ -76,4 +76,4 @@ I'm a software developer specialising in web applications (full stack) and serve
 [work-thepriory]: https://www.theprioryprimaryschool.org.uk "The Priory Primary School's Website"
 
 <!-- Personal Links: -->
-[me-medium]: https://medium.com/@domwebberr
+[me-medium]: https://medium.com/@domwebberr "My Medium Profile"
