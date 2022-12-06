@@ -11,7 +11,7 @@ I'm a software developer specialising in web applications (full stack) and serve
 - [NextJS][tech-nextjs] ⛵
 - [Python][tech-python] 🐍
 - [PHP][tech-php] 🐘
-- [Symfony][tech-symfony] 🌐
+- [Symfony][tech-symfony] 📖
 - [WordPress][tech-wordpress] (Plugins & Themes) 🔌
 - HTML 📝 CSS 💄 [Sass][tech-sass] (SCSS) 💍
 - SQL (MySQL) 💥
