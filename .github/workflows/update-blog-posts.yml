@@ -1,5 +1,8 @@
 name: Latest Blog Posts Update
 on:
+  push:
+    paths:
+      - ".github/workflows/update-blog-posts.yml"
   schedule:
     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch:
