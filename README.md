@@ -45,3 +45,7 @@ I'm a software developer specialising in web applications (full stack) and softw
   - [NextJS 13](https://nextjs.org)
   - [TypeScript](https://typescriptlang.org)
   - [TailwindCSS](https://tailwindcss.com)
+
+### Articles & Blog Posts 📝
+
+- [Medium: TypeScript + React Generic Component Typing](https://medium.com/@domwebberr/typescript-react-generic-component-typing-d01f59d9375b)
