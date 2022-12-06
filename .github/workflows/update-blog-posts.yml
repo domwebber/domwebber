@@ -12,7 +12,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1.8l0
         with:
           feed_list: "https://medium.com/feed/@domwebberr,https://stackoverflow.com/feeds/user/11928183"
