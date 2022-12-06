@@ -46,7 +46,8 @@ I'm a software developer specialising in web applications (full stack) and serve
 
 ### Articles & Blog Posts 📝
 
-- [Medium: TypeScript + React Generic Component Typing](https://medium.com/@domwebberr/typescript-react-generic-component-typing-d01f59d9375b)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [typescript]: https://www.typescriptlang.org "TypeScript's Website"
 [nodejs]: https://nodejs.org "NodeJS' Website"
