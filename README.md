@@ -50,6 +50,8 @@ I'm a software developer specialising in web applications (full stack) and serve
 - [Medium: TypeScript + React Generic Component Typing](https://medium.com/@domwebberr/typescript-react-generic-component-typing-d01f59d9375b?source=rss-7e4c514c9a3c------2)
 <!-- BLOG-POST-LIST:END -->
 
+> See: [Medium Articles][medium-articles]
+
 <!-- References: -->
 <!-- Technologies: -->
 [typescript]: https://www.typescriptlang.org "TypeScript's Website"
@@ -72,3 +74,6 @@ I'm a software developer specialising in web applications (full stack) and serve
 [laceytech-link]: https://lacey-tech.com "Lacey Tech's Website"
 [basingstokeacademy-link]: https://www.basingstokeacademy.co.uk "Basingstoke Academy of Dancing's Website"
 [thepriory-link]: https://www.theprioryprimaryschool.org.uk "The Priory Primary School's Website"
+
+<!-- Personal Links: -->
+[medium-articles]: https://medium.com/@domwebberr
