@@ -35,16 +35,11 @@ I'm a software developer specialising in web applications (full stack) and serve
 - [Algorithms and Data Structures](https://github.com/domwebber/algorithms-and-data-structures) (Work In Progress) ⚙️ \
   *Example implementations of various algorithms and data structures, built by myself.* \
   Built with 🛠
-  - [TypeScript][tech-typescript]
-  - [Python][tech-python]
-  - [Bash][tech-bash]
-  - [PHP][tech-php]
-  - [Golang][tech-golang]
+  [TypeScript][tech-typescript], [Python][tech-python], [Bash][tech-bash], [PHP][tech-php], [Golang][tech-golang]
 - [TheDerbyInn.co.uk][work-thederbyinn] 🍹 \
-  Built with @ [Relucent][work-relucent] + [The Derby Inn][work-thederbyinn] 🛠
-  - [NextJS 13][tech-nextjs]
-  - [TypeScript][tech-typescript]
-  - [TailwindCSS][tech-tailwindcss]
+  *The Derby Inn's Website - built for [Relucent][work-relucent] & [The Derby Inn][work-thederbyinn]. Designed & Developed.* \
+  Built with 🛠
+  [NextJS 13][tech-nextjs], [TypeScript][tech-typescript], [TailwindCSS][tech-tailwindcss]
 
 ## Articles & Updates 📝
 <!-- BLOG-POST-LIST:START -->
