@@ -44,7 +44,7 @@ I'm a software developer specialising in web applications (full stack) and serve
   - [TypeScript][typescript]
   - [TailwindCSS][tailwindcss]
 
-### Articles & Blog Posts 📝
+### Articles & Updates Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
 
