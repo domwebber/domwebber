@@ -13,7 +13,9 @@ I'm a software developer specialising in web applications (full stack) and serve
 - [PHP][tech-php] 🐘
 - [Symfony][tech-symfony] 📖
 - [WordPress][tech-wordpress] (Plugins & Themes) 🔌
-- HTML 📝 CSS 💄 [Sass][tech-sass] (SCSS) 💍
+- HTML 📝
+- CSS 💄
+- [Sass][tech-sass] (SCSS) 💍
 - SQL (MySQL) 💥
 - [Go/Golang][tech-golang] 🚤 (Currently learning...)
 - [Docker][tech-docker] :whale: (Currently learning...)
