@@ -45,7 +45,6 @@ I'm a software developer specialising in web applications (full stack) and serve
   - [TailwindCSS][tailwindcss]
 
 ### Articles & Updates 📝
-
 <!-- BLOG-POST-LIST:START -->
 
 - [Medium: TypeScript + React Generic Component Typing](https://medium.com/@domwebberr/typescript-react-generic-component-typing-d01f59d9375b?source=rss-7e4c514c9a3c------2)
@@ -53,6 +52,8 @@ I'm a software developer specialising in web applications (full stack) and serve
 - [Stackoverflow: Answer by Dom Webber for No &#39;Access-Control-Allow-Origin&#39; header is present on the requested resource &lpar;FLASK API / ReactJs&rpar;](https://stackoverflow.com/questions/65644658/no-access-control-allow-origin-header-is-present-on-the-requested-resource-fl/65644769#65644769)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- References: -->
+<!-- Technologies: -->
 [typescript]: https://www.typescriptlang.org "TypeScript's Website"
 [nodejs]: https://nodejs.org "NodeJS' Website"
 [reactjs]: https://reactjs.org "ReactJS' Website"
@@ -67,6 +68,7 @@ I'm a software developer specialising in web applications (full stack) and serve
 [tailwindcss]: https://tailwindcss.com "TailwindCSS' Website"
 [bash]: https://www.gnu.org/software/bash/ "Bash's Website"
 
+<!-- Work References: -->
 [relucent-link]: https://github.com/Relucent-Software "Relucent's GitHub Profile"
 [thederbyinn-link]: https://thederbyinn.co.uk "The Derby Inn's Website"
 [laceytech-link]: https://lacey-tech.com "Lacey Tech's Website"
