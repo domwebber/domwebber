@@ -10,18 +10,52 @@ I am currently learning [Go][tech-golang].
 - 📏 JavaScript, ❄️ [TypeScript][tech-typescript], 🐘 [PHP][tech-php], 🐍 [Python][tech-python]
 - ☄️ [NodeJS][tech-nodejs], ✨ [React][tech-reactjs], ⛵ [NextJS][tech-nextjs], 🔌 [WordPress][tech-wordpress] (Plugins & Themes), 📖 [Symfony][tech-symfony]
 - 📝 HTML, 💄 CSS, 💍 [SASS][tech-sass], 🦑 [TailwindCSS][tech-tailwindcss]
-- 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb]
+- 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb], 📩 AMQP
 - 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions]
 - 🛒 [Netlify][tech-netlify], ⚙️ [NGINX][tech-nginx]
 - *Currently Learning:* 🚤 [Go/Golang][tech-golang]
 
 ## My Work ✨
 
-- Open Source Software Development 🌐 @ [Relucent][work-relucent]
-- Bar Management & Stock Control (including stock control software development) 🍷 @ [The Derby Inn][work-thederbyinn]
-- Full Stack & Microservice Software Development 💻 @ [Lacey Tech][work-laceytech]
+- Open Source Software Development 🌐 @ [Relucent][work-relucent] \
+  *[TypeScript][tech-typescript],
+  [Python][tech-python],
+  [Go][tech-golang],
+  [NodeJS][tech-nodejs],
+  [React][tech-reactjs],
+  [NextJS][tech-nextjs],
+  [TailwindCSS][tech-tailwindcss],
+  MySQL,
+  [MongoDB][tech-mongodb],
+  AMQP,
+  [Docker][tech-docker],
+  [Github Actions][tech-github-actions],
+  [Netlify][tech-netlify]*
+- Bar Management & Stock Control (including stock control software development) 🍷 @ [The Derby Inn][work-thederbyinn] \
+  *[TypeScript][tech-typescript],
+  [Python][tech-python],
+  [React][tech-reactjs],
+  [NextJS][tech-nextjs],
+  [TailwindCSS][tech-tailwindcss],
+  MySQL,
+  [Netlify][tech-netlify]*
+- Full Stack & Microservice Software Development 💻 @ [Lacey Tech][work-laceytech] \
+  *[PHP][tech-php],
+  JavaScript,
+  [WordPress][tech-wordpress],
+  [Symfony][tech-symfony],
+  HTML,
+  CSS,
+  [SASS][tech-sass],
+  MySQL*
 - Teaching Assistant 💃 @ [Basingstoke Academy of Dancing][work-basingstokeacademy]
-- Contract Software Developer 🧑‍🏫 @ [The Priory Primary School][work-thepriory]
+- Contract Software Developer 🧑‍🏫 @ [The Priory Primary School][work-thepriory] \
+  *[PHP][tech-php],
+  JavaScript,
+  [Symfony][tech-symfony],
+  HTML,
+  [SASS][tech-sass],
+  MySQL*
 
 > Contact me: <dom.webber@hotmail.com>
 
