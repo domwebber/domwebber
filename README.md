@@ -1,6 +1,9 @@
 # Hi, I'm Dom 👋
 
-I'm a software developer specialising in web applications (full stack) and server/CLI software. I enjoy working with React, TypeScript, APIs, Python, PHP, NodeJS and so much more. I am passionate about constantly improving my own skills and making myself into both a better person and a better software developer.
+I'm a software developer specialising in web applications and server/CLI software.
+I enjoy working with React, TypeScript, JamStack, APIs, Python, PHP, NodeJS, GraphQL and so much more.
+I am passionate about constantly improving my skills and making mysql both a better person and software developer.
+I am currently learning [Go][tech-golang].
 
 ## My skills 🏆
 
