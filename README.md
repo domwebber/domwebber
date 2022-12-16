@@ -4,21 +4,12 @@ I'm a software developer specialising in web applications (full stack) and serve
 
 ## My skills 🏆
 
-- JavaScript 📏
-- [TypeScript][tech-typescript] ❄️
-- [NodeJS][tech-nodejs] ☄️
-- [React][tech-reactjs] ✨
-- [NextJS][tech-nextjs] ⛵
-- [Python][tech-python] 🐍
-- [PHP][tech-php] 🐘
-- [Symfony][tech-symfony] 📖
-- [WordPress][tech-wordpress] (Plugins & Themes) 🔌
-- HTML 📝
-- CSS 💄
-- [Sass][tech-sass] (SCSS) 💍
-- SQL (MySQL) 💥
-- [Go/Golang][tech-golang] 🚤 (Currently learning...)
-- [Docker][tech-docker] :whale: (Currently learning...)
+- 📏 JavaScript, ❄️ [TypeScript][tech-typescript], 🐘 [PHP][tech-php], 🐍 [Python][tech-python]
+- ☄️ [NodeJS][tech-nodejs], ✨ [React][tech-reactjs], ⛵ [NextJS][tech-nextjs], 🔌 [WordPress][tech-wordpress] (Plugins & Themes), 📖 [Symfony][tech-symfony]
+- 📝 HTML, 💄 CSS, 💍 [SASS][tech-sass], 🦑 [TailwindCSS][tech-tailwindcss]
+- 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb]
+- 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions]
+- *Currently Learning:* 🚤 [Go/Golang][tech-golang]
 
 ## My Work ✨
 
@@ -65,6 +56,8 @@ I'm a software developer specialising in web applications (full stack) and serve
 [tech-docker]: https://www.docker.com "Docker's Website"
 [tech-tailwindcss]: https://tailwindcss.com "TailwindCSS' Website"
 [tech-bash]: https://www.gnu.org/software/bash/ "Bash's Website"
+[tech-mongodb]: https://www.mongodb.com/ "MongoDB's Website"
+[tech-github-actions]: https://github.com/features/actions "GitHub Actions Feature Page"
 
 <!-- Work References: -->
 [work-relucent]: https://github.com/Relucent-Software "Relucent's GitHub Profile"
