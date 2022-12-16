@@ -9,6 +9,7 @@ I'm a software developer specialising in web applications (full stack) and serve
 - 📝 HTML, 💄 CSS, 💍 [SASS][tech-sass], 🦑 [TailwindCSS][tech-tailwindcss]
 - 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb]
 - 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions]
+- 🛒 [Netlify][tech-netlify], ⚙️ [NGINX][tech-nginx]
 - *Currently Learning:* 🚤 [Go/Golang][tech-golang]
 
 ## My Work ✨
@@ -58,6 +59,8 @@ I'm a software developer specialising in web applications (full stack) and serve
 [tech-bash]: https://www.gnu.org/software/bash/ "Bash's Website"
 [tech-mongodb]: https://www.mongodb.com/ "MongoDB's Website"
 [tech-github-actions]: https://github.com/features/actions "GitHub Actions Feature Page"
+[tech-netlify]: https://www.netlify.com/ "Netlify's Website"
+[tech-nginx]: https://nginx.org/ "NGINX's Website"
 
 <!-- Work References: -->
 [work-relucent]: https://github.com/Relucent-Software "Relucent's GitHub Profile"
