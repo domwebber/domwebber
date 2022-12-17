@@ -73,6 +73,7 @@ I am currently learning [Go][tech-golang].
 ## Articles & Updates 📝
 <!-- BLOG-POST-LIST:START -->
 
+- [Medium: An Unobjective, Non-Comprehensive, List of the Best &lpar;and Worst&rpar; Programming Language Features…](https://medium.com/@domwebberr/an-unobjective-non-comprehensive-list-of-the-best-and-worst-programming-language-features-797b8ba503?source=rss-7e4c514c9a3c------2)
 - [Medium: NextJS 13 + TailwindCSS Responsive Background Image](https://medium.com/@domwebberr/nextjs-13-tailwindcss-responsive-background-image-eb8ead82ab4e?source=rss-7e4c514c9a3c------2)
 - [Medium: TypeScript + React Generic Component Typing](https://medium.com/@domwebberr/typescript-react-generic-component-typing-d01f59d9375b?source=rss-7e4c514c9a3c------2)
 <!-- BLOG-POST-LIST:END -->
