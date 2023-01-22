@@ -65,11 +65,23 @@ I am currently learning [Go][tech-golang] and am DBS Basic Check Cleared.
 - [Algorithms and Data Structures](https://github.com/domwebber/algorithms-and-data-structures) (Work In Progress) ⚙️ \
   *Example implementations of various algorithms and data structures, built by myself.* \
   Built with 🛠
-  [TypeScript][tech-typescript], [Python][tech-python], [Bash][tech-bash], [PHP][tech-php], [Go][tech-golang], [Docker][tech-docker]
+  [TypeScript][tech-typescript],
+  [Python][tech-python],
+  [Bash][tech-bash],
+  [PHP][tech-php],
+  [Go][tech-golang],
+  [Docker][tech-docker]
+- [EmmasCakeCreations.com][work-emmascakecreations] 🍰 \
+  *Emma's Cake Creations' Website - built for [Relucent][work-relucent] & [Emma's Cake Creations][work-emmascakecreations]. Designed & Developed.* \
+  [NextJS 13][tech-nextjs],
+  [TypeScript][tech-typescript],
+  [TailwindCSS][tech-tailwindcss]
 - [TheDerbyInn.co.uk][work-thederbyinn] 🍹 \
   *The Derby Inn's Website - built for [Relucent][work-relucent] & [The Derby Inn][work-thederbyinn]. Designed & Developed.* \
   Built with 🛠
-  [NextJS 13][tech-nextjs], [TypeScript][tech-typescript], [TailwindCSS][tech-tailwindcss]
+  [NextJS 13][tech-nextjs],
+  [TypeScript][tech-typescript],
+  [TailwindCSS][tech-tailwindcss]
 
 ## Articles & Updates 📝
 <!-- BLOG-POST-LIST:START -->
@@ -102,6 +114,7 @@ I am currently learning [Go][tech-golang] and am DBS Basic Check Cleared.
 [tech-nginx]: https://nginx.org/ "NGINX's Website"
 
 <!-- Work References: -->
+[work-emmascakecreations]: https://emmascakecreations.com "Emma's Cake Creations' Website"
 [work-relucent]: https://github.com/Relucent-Software "Relucent's GitHub Profile"
 [work-thederbyinn]: https://thederbyinn.co.uk "The Derby Inn's Website"
 [work-laceytech]: https://lacey-tech.com "Lacey Tech's Website"
