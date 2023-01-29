@@ -1,10 +1,9 @@
 # Hi, I'm Dom 👋
 
-
 I'm a software developer specialising in web applications and server/CLI software.
 I enjoy working with React, TypeScript, JamStack, APIs, Python, PHP, NodeJS, GraphQL and so much more.
 I am passionate about constantly improving my skills and making mysql both a better person and software developer.
-I am currently learning [Go][tech-golang] and am DBS Basic Check Cleared.
+I am currently learning Go and am DBS Basic Check Cleared.
 
 ## My skills 🏆
 
