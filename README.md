@@ -18,7 +18,7 @@ I am currently learning [Go][tech-golang] and am DBS Basic Check Cleared.
 
 ## My Work ✨
 
-- Open Source Software Development 🌐 @ [Relucent][work-relucent] \
+- Software Development 🌐 @ [Relucent][work-relucent] \
   *[TypeScript][tech-typescript],
   [Python][tech-python],
   [Go][tech-golang],
@@ -32,14 +32,6 @@ I am currently learning [Go][tech-golang] and am DBS Basic Check Cleared.
   [Docker][tech-docker],
   [Github Actions][tech-github-actions],
   [Netlify][tech-netlify]*
-- Bar Management & Stock Control (including stock control software development) 🍷 @ [The Derby Inn][work-thederbyinn] \
-  *[TypeScript][tech-typescript],
-  [Python][tech-python],
-  [React][tech-reactjs],
-  [NextJS][tech-nextjs],
-  [TailwindCSS][tech-tailwindcss],
-  MySQL,
-  [Netlify][tech-netlify]*
 - Full Stack & Microservice Software Development 💻 @ [Lacey Tech][work-laceytech] \
   *[PHP][tech-php],
   JavaScript,
@@ -49,7 +41,6 @@ I am currently learning [Go][tech-golang] and am DBS Basic Check Cleared.
   CSS,
   [SASS][tech-sass],
   MySQL*
-- Teaching Assistant 💃 @ [Basingstoke Academy of Dancing][work-basingstokeacademy]
 - Contract Software Developer 🧑‍🏫 @ [The Priory Primary School][work-thepriory] \
   *[PHP][tech-php],
   JavaScript,
@@ -57,6 +48,15 @@ I am currently learning [Go][tech-golang] and am DBS Basic Check Cleared.
   HTML,
   [SASS][tech-sass],
   MySQL*
+- Bar Management & Stock Control 🍷 @ [The Derby Inn][work-thederbyinn] \
+  *[TypeScript][tech-typescript],
+  [Python][tech-python],
+  [React][tech-reactjs],
+  [NextJS][tech-nextjs],
+  [TailwindCSS][tech-tailwindcss],
+  MySQL,
+  [Netlify][tech-netlify]*
+- Teaching Assistant 💃 @ [Basingstoke Academy of Dancing][work-basingstokeacademy]
 
 > Contact me: <dom.webber@hotmail.com>
 
@@ -70,20 +70,27 @@ I am currently learning [Go][tech-golang] and am DBS Basic Check Cleared.
   [Bash][tech-bash],
   [PHP][tech-php],
   [Go][tech-golang],
-  [Docker][tech-docker]
+  [Docker][tech-docker].
 - [EmmasCakeCreations.com][work-emmascakecreations] 🍰 \
   *Emma's Cake Creations' Website - built for [Relucent][work-relucent] & [Emma's Cake Creations][work-emmascakecreations]. Designed & Developed.* \
+  Built with 🛠
   [NextJS 13][tech-nextjs],
   [TypeScript][tech-typescript],
-  [TailwindCSS][tech-tailwindcss]
+  [TailwindCSS][tech-tailwindcss].
 - [TheDerbyInn.co.uk][work-thederbyinn] 🍹 \
   *The Derby Inn's Website - built for [Relucent][work-relucent] & [The Derby Inn][work-thederbyinn]. Designed & Developed.* \
   Built with 🛠
   [NextJS 13][tech-nextjs],
   [TypeScript][tech-typescript],
-  [TailwindCSS][tech-tailwindcss]
+  [TailwindCSS][tech-tailwindcss].
 
 ## Articles & Updates 📝
+
+### Highlights ✨
+
+- 🌠 [TypeScript + React Generic Component Typing][article-typescript-react-generics] (Medium Article)
+
+### Latest 👋
 <!-- BLOG-POST-LIST:START -->
 
 - [Medium: An Unobjective, Non-Comprehensive, List of the Best &lpar;and Worst&rpar; Programming Language Features…](https://medium.com/@domwebberr/an-unobjective-non-comprehensive-list-of-the-best-and-worst-programming-language-features-797b8ba503?source=rss-7e4c514c9a3c------2)
@@ -120,6 +127,9 @@ I am currently learning [Go][tech-golang] and am DBS Basic Check Cleared.
 [work-laceytech]: https://lacey-tech.com "Lacey Tech's Website"
 [work-basingstokeacademy]: https://www.basingstokeacademy.co.uk "Basingstoke Academy of Dancing's Website"
 [work-thepriory]: https://www.theprioryprimaryschool.org.uk "The Priory Primary School's Website"
+
+<!-- Featured Articles: -->
+[article-typescript-react-generics]: https://medium.com/p/d01f59d9375b "TypeScript + React Generic Component Typing"
 
 <!-- Personal Links: -->
 [me-medium]: https://medium.com/@domwebberr "My Medium Profile"
