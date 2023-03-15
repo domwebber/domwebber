@@ -13,7 +13,8 @@ I am currently learning Go and am DBS Basic Check Cleared.
 - 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb], 📩 AMQP
 - 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions]
 - 🛒 [Netlify][tech-netlify], ⚙️ [NGINX][tech-nginx]
-- *Currently Learning:* 🚤 [Go/Golang][tech-golang]
+- *Currently Learning:* [Payload CMS][tech-payloadcms]
+<!-- - *Currently Learning:* 🚤 [Go/Golang][tech-golang] -->
 
 ## My Work ✨
 
@@ -118,6 +119,7 @@ I am currently learning Go and am DBS Basic Check Cleared.
 [tech-github-actions]: https://github.com/features/actions "GitHub Actions Feature Page"
 [tech-netlify]: https://www.netlify.com/ "Netlify's Website"
 [tech-nginx]: https://nginx.org/ "NGINX's Website"
+[tech-payloadcms]: https://payloadcms.com/ "Payload CMS' Website"
 
 <!-- Work References: -->
 [work-emmascakecreations]: https://emmascakecreations.com "Emma's Cake Creations' Website"
