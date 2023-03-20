@@ -2,8 +2,8 @@
 
 I'm a software developer specialising in web applications and server/CLI software.
 I enjoy working with React, TypeScript, JamStack, APIs, Python, PHP, NodeJS, GraphQL and so much more.
-I am passionate about constantly improving my skills and making mysql both a better person and software developer.
-I am currently learning Go and am DBS Basic Check Cleared.
+I am passionate about constantly improving my skills and making myself both a better person and software developer.
+I am currently learning [Payload CMS][tech-payloadcms] and am DBS Basic Check Cleared.
 
 ## My skills 🏆
 
