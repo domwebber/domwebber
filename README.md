@@ -12,7 +12,7 @@ I am currently learning [Payload CMS][tech-payloadcms] and am DBS Basic Check Cl
 - 📝 HTML, 💄 CSS, 💍 [SASS][tech-sass], 🦑 [TailwindCSS][tech-tailwindcss]
 - 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb], 📩 AMQP
 - 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions]
-- 🛒 [Netlify][tech-netlify], 🧰 [Vercel[tech-vercel], ⚙️ [NGINX][tech-nginx]
+- 🛒 [Netlify][tech-netlify], 🧰 [Vercel][tech-vercel], ⚙️ [NGINX][tech-nginx]
 - *Currently Learning:* 🗒️ [Payload CMS][tech-payloadcms]
 <!-- - *Currently Learning:* 🚤 [Go/Golang][tech-golang] -->
 
