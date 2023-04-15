@@ -8,12 +8,12 @@ I am currently learning [Payload CMS][tech-payloadcms] and am DBS Basic Check Cl
 ## My skills 🏆
 
 - 📏 JavaScript, ❄️ [TypeScript][tech-typescript], 🐘 [PHP][tech-php], 🐍 [Python][tech-python]
-- ☄️ [NodeJS][tech-nodejs], ✨ [React][tech-reactjs], ⛵ [NextJS][tech-nextjs], 🔌 [WordPress][tech-wordpress] (Plugins & Themes), 📖 [Symfony][tech-symfony]
+- ☄️ [NodeJS][tech-nodejs], ✨ [React][tech-reactjs], ⛵ [NextJS][tech-nextjs], 🔌 [WordPress][tech-wordpress] (Plugins & Themes), 📖 [Symfony][tech-symfony], 🗒️ [Payload CMS][tech-payloadcms]
 - 📝 HTML, 💄 CSS, 💍 [SASS][tech-sass], 🦑 [TailwindCSS][tech-tailwindcss]
 - 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb], 📩 AMQP
 - 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions]
 - 🛒 [Netlify][tech-netlify], 🧰 [Vercel][tech-vercel], ⚙️ [NGINX][tech-nginx]
-- *Currently Learning:* 🗒️ [Payload CMS][tech-payloadcms]
+- *Currently Learning:* 🤖 [ChatGPT][tech-chatgpt]
 <!-- - *Currently Learning:* 🚤 [Go/Golang][tech-golang] -->
 
 ## My Work ✨
@@ -121,6 +121,7 @@ I am currently learning [Payload CMS][tech-payloadcms] and am DBS Basic Check Cl
 [tech-nginx]: https://nginx.org/ "NGINX's Website"
 [tech-payloadcms]: https://payloadcms.com/ "Payload CMS' Website"
 [tech-vercel]: https://vercel.com "Vercel's Website"
+[tech-chatgpt]: https://openai.com/blog/chatgpt "ChatGPT's Website"
 
 <!-- Work References: -->
 [work-emmascakecreations]: https://emmascakecreations.com "Emma's Cake Creations' Website"
