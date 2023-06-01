@@ -3,18 +3,29 @@
 I'm a software developer specialising in web applications and server/CLI software.
 I enjoy working with React, TypeScript, JamStack, APIs, Python, PHP, NodeJS, GraphQL and so much more.
 I am passionate about constantly improving my skills and making myself both a better person and software developer.
-I am currently learning [Payload CMS][tech-payloadcms] and am DBS Basic Check Cleared.
 
 ## My skills 🏆
 
 - 📏 JavaScript, ❄️ [TypeScript][tech-typescript], 🐘 [PHP][tech-php], 🐍 [Python][tech-python]
 - ☄️ [NodeJS][tech-nodejs], ✨ [React][tech-reactjs], ⛵ [NextJS][tech-nextjs], 🔌 [WordPress][tech-wordpress] (Plugins & Themes), 📖 [Symfony][tech-symfony], 🗒️ [Payload CMS][tech-payloadcms]
 - 📝 HTML, 💄 CSS, 💍 [SASS][tech-sass], 🦑 [TailwindCSS][tech-tailwindcss]
-- 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb], 📩 AMQP
+- 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb], 📩 [AMQP][tech-amqp], 🕸️ [GraphQL][tech-graphql]
 - 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions]
 - 🛒 [Netlify][tech-netlify], 🧰 [Vercel][tech-vercel], ⚙️ [NGINX][tech-nginx]
-- *Currently Learning:* 🤖 [ChatGPT][tech-chatgpt]
+- *Currently Learning:* 🤖 [ChatGPT][tech-chatgpt], 🦀 [Rust][tech-rust]
 <!-- - *Currently Learning:* 🚤 [Go/Golang][tech-golang] -->
+
+<details>
+ <summary>My Favourites ⚡</summary>
+ 
+ ❄️ [TypeScript][tech-typescript],
+ ☄️ [NodeJS][tech-nodejs],
+ ✨ [React][tech-reactjs],
+ ⛵ [NextJS][tech-nextjs],
+ 🐳 [Docker][tech-docker],
+ 🕸️ [GraphQL][tech-graphql]
+ 
+</details>
 
 ## My Work ✨
 
@@ -77,6 +88,12 @@ I am currently learning [Payload CMS][tech-payloadcms] and am DBS Basic Check Cl
   [NextJS 13][tech-nextjs],
   [TypeScript][tech-typescript],
   [TailwindCSS][tech-tailwindcss].
+- [ThorpesNeuroRehab.com][work-thorpesneurorehab] 🩺 \
+  *Thorpes Neuro Rehab's Website - built for [Relucent][work-relucent] & [Thorpes Neuro Rehab][work-thorpesneurorehab]. Designed & Developed.* \
+  Built with 🛠️
+  [NextJS 13][tech-nextjs],
+  [TypeScript][tech-typescript],
+  [TailwindCSS][tech-tailwindcss].
 - [TheDerbyInn.co.uk][work-thederbyinn] 🍹 \
   *The Derby Inn's Website - built for [Relucent][work-relucent] & [The Derby Inn][work-thederbyinn]. Designed & Developed.* \
   Built with 🛠
@@ -121,9 +138,13 @@ I am currently learning [Payload CMS][tech-payloadcms] and am DBS Basic Check Cl
 [tech-payloadcms]: https://payloadcms.com/ "Payload CMS' Website"
 [tech-vercel]: https://vercel.com "Vercel's Website"
 [tech-chatgpt]: https://openai.com/blog/chatgpt "ChatGPT's Website"
+[tech-graphql]: https://graphql.org/ "The GraphQL Specification's Website"
+[tech-rust]: https://www.rust-lang.org/ "Rust's Website"
+[tech-amqp]: https://www.amqp.org/ "The AMQP Specification's Website"
 
 <!-- Work References: -->
 [work-emmascakecreations]: https://emmascakecreations.com "Emma's Cake Creations' Website"
+[work-thorpesneurorehab]: https://thorpesneurorehab.com "Thorpes Neuro Rehab's Website"
 [work-relucent]: https://github.com/Relucent-Software "Relucent's GitHub Profile"
 [work-thederbyinn]: https://thederbyinn.co.uk "The Derby Inn's Website"
 [work-laceytech]: https://lacey-tech.com "Lacey Tech's Website"
