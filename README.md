@@ -16,7 +16,9 @@ I am passionate about constantly improving my skills and making myself both a be
 <!-- - *Currently Learning:* 🚤 [Go/Golang][tech-golang] -->
 
 <details>
- <summary>My Favourites ⚡</summary>
+ <summary>My Favourite Tech ⚡</summary>
+ 
+ Of course I have favourites (don't we all). Out of all of the technologies that I've worked with, my favourites are:
  
  ❄️ [TypeScript][tech-typescript],
  ☄️ [NodeJS][tech-nodejs],
