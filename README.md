@@ -6,102 +6,132 @@ I am passionate about constantly improving my skills and making myself both a be
 
 ## My skills 🏆
 
-- 📏 JavaScript, ❄️ [TypeScript][tech-typescript], 🐘 [PHP][tech-php], 🐍 [Python][tech-python]
-- ☄️ [NodeJS][tech-nodejs], ✨ [React][tech-reactjs], ⛵ [NextJS][tech-nextjs], 🔌 [WordPress][tech-wordpress] (Plugins & Themes), 📖 [Symfony][tech-symfony], 🗒️ [Payload CMS][tech-payloadcms]
-- 📝 HTML, 💄 CSS, 💍 [SASS][tech-sass], 🦑 [TailwindCSS][tech-tailwindcss]
-- 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb], 📩 [AMQP][tech-amqp], 🕸️ [GraphQL][tech-graphql]
-- 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions]
-- 🛒 [Netlify][tech-netlify], 🧰 [Vercel][tech-vercel], ⚙️ [NGINX][tech-nginx]
-- *Currently Learning:* 🤖 [ChatGPT][tech-chatgpt], 🦀 [Rust][tech-rust]
-<!-- - *Currently Learning:* 🚤 [Go/Golang][tech-golang] -->
+> *Currently Learning:*
+> 🤖 [ChatGPT][tech-chatgpt],
+> 🦀 [Rust][tech-rust]
 
-<details>
- <summary>My Favourite Tech ⚡</summary>
- 
- Of course I have favourites (don't we all). Out of all of the technologies that I've worked with, my favourites are:
- 
- ❄️ [TypeScript][tech-typescript],
- ☄️ [NodeJS][tech-nodejs],
- ✨ [React][tech-reactjs],
- ⛵ [NextJS][tech-nextjs],
- 🐳 [Docker][tech-docker],
- 🕸️ [GraphQL][tech-graphql]
- 
-</details>
+- 📏 JavaScript,
+  ❄️ [TypeScript][tech-typescript],
+  🐘 [PHP][tech-php],
+  🐍 [Python][tech-python]
+- ☄️ [NodeJS][tech-nodejs],
+  ✨ [React][tech-reactjs],
+  ⛵ [NextJS][tech-nextjs],
+  🔌 [WordPress][tech-wordpress] (Plugins & Themes),
+  📖 [Symfony][tech-symfony],
+  🗒️ [Payload CMS][tech-payloadcms]
+- 📝 HTML,
+  💄 CSS,
+  💍 [SASS][tech-sass],
+  🦑 [TailwindCSS][tech-tailwindcss]
+- 💥 MySQL,
+  📃 SQL,
+  📑 [MongoDB][tech-mongodb],
+  📩 [AMQP][tech-amqp],
+  🕸️ [GraphQL][tech-graphql]
+- 🐳 [Docker][tech-docker],
+  🏃 [GitHub Actions][tech-github-actions]
+- 🛒 [Netlify][tech-netlify],
+  🧰 [Vercel][tech-vercel],
+  ⚙️ [NGINX][tech-nginx]
 
 ## My Work ✨
 
-- Software Development 🌐 @ [Relucent][work-relucent] \
-  *[TypeScript][tech-typescript],
-  [Python][tech-python],
-  [Go][tech-golang],
-  [NodeJS][tech-nodejs],
-  [React][tech-reactjs],
-  [NextJS][tech-nextjs],
-  [TailwindCSS][tech-tailwindcss],
-  MySQL,
-  [MongoDB][tech-mongodb],
-  AMQP,
-  [Docker][tech-docker],
-  [Github Actions][tech-github-actions],
-  [Netlify][tech-netlify]*
-- Full Stack & Microservice Software Development 💻 @ [Lacey Tech][work-laceytech] \
-  *[PHP][tech-php],
-  JavaScript,
-  [WordPress][tech-wordpress],
-  [Symfony][tech-symfony],
-  HTML,
-  CSS,
-  [SASS][tech-sass],
-  MySQL*
-- Contract Software Developer 🧑‍🏫 @ [The Priory Primary School][work-thepriory] \
-  *[PHP][tech-php],
-  JavaScript,
-  [Symfony][tech-symfony],
-  HTML,
-  [SASS][tech-sass],
-  MySQL*
-- Bar Management & Stock Control 🍷 @ [The Derby Inn][work-thederbyinn] \
-  *[TypeScript][tech-typescript],
-  [Python][tech-python],
-  [React][tech-reactjs],
-  [NextJS][tech-nextjs],
-  [TailwindCSS][tech-tailwindcss],
-  MySQL,
-  [Netlify][tech-netlify]*
-- Teaching Assistant 💃 @ [Basingstoke Academy of Dancing][work-basingstokeacademy]
-
 > Contact me: <dom.webber@hotmail.com>
+
+### **Software Development** — [Great Detail][work-greatdetail] ⚙️
+
+*[TypeScript][tech-typescript],
+[NodeJS][tech-nodejs],
+[MongoDB][tech-mongodb],
+AMQP,
+[Docker][tech-docker],
+[ChatGPT][tech-chatgpt]*
+
+### **Software Development** — [Relucent][work-relucent] 🌐
+
+*[TypeScript][tech-typescript],
+[NodeJS][tech-nodejs],
+[React][tech-reactjs],
+[NextJS][tech-nextjs],
+[TailwindCSS][tech-tailwindcss],
+MySQL,
+[MongoDB][tech-mongodb],
+AMQP,
+[Docker][tech-docker],
+[Github Actions][tech-github-actions]*
+
+### **Full Stack & Microservice Software Development** — [Lacey Tech][work-laceytech] 💻
+
+*[PHP][tech-php],
+JavaScript,
+[WordPress][tech-wordpress],
+[Symfony][tech-symfony],
+HTML,
+CSS,
+[SASS][tech-sass],
+MySQL*
+
+### **Contract Software Developer** — [The Priory Primary School][work-thepriory] 🏫
+
+*[PHP][tech-php],
+JavaScript,
+[Symfony][tech-symfony],
+HTML,
+[SASS][tech-sass],
+MySQL*
+
+### **Bar Management & Stock Control** — [The Derby Inn][work-thederbyinn] 🍷
+
+*[TypeScript][tech-typescript],
+[Python][tech-python],
+[React][tech-reactjs],
+[NextJS][tech-nextjs],
+[TailwindCSS][tech-tailwindcss],
+MySQL*
+
+### **Teaching Assistant** — [Basingstoke Academy of Dancing][work-basingstokeacademy] 💃
 
 ## My Portfolio 🎆
 
-- [Algorithms and Data Structures](https://github.com/domwebber/algorithms-and-data-structures) (Work In Progress) ⚙️ \
-  *Example implementations of various algorithms and data structures, built by myself.* \
-  Built with 🛠
-  [TypeScript][tech-typescript],
-  [Python][tech-python],
-  [Bash][tech-bash],
-  [PHP][tech-php],
-  [Go][tech-golang],
-  [Docker][tech-docker].
-- [EmmasCakeCreations.com][work-emmascakecreations] 🍰 \
-  *Emma's Cake Creations' Website - built for [Relucent][work-relucent] & [Emma's Cake Creations][work-emmascakecreations]. Designed & Developed.* \
-  Built with 🛠
-  [NextJS 13][tech-nextjs],
-  [TypeScript][tech-typescript],
-  [TailwindCSS][tech-tailwindcss].
-- [ThorpesNeuroRehab.com][work-thorpesneurorehab] 🩺 \
-  *Thorpes Neuro Rehab's Website - built for [Relucent][work-relucent] & [Thorpes Neuro Rehab][work-thorpesneurorehab]. Designed & Developed.* \
-  Built with 🛠️
-  [NextJS 13][tech-nextjs],
-  [TypeScript][tech-typescript],
-  [TailwindCSS][tech-tailwindcss].
-- [TheDerbyInn.co.uk][work-thederbyinn] 🍹 \
-  *The Derby Inn's Website - built for [Relucent][work-relucent] & [The Derby Inn][work-thederbyinn]. Designed & Developed.* \
-  Built with 🛠
-  [NextJS 13][tech-nextjs],
-  [TypeScript][tech-typescript],
-  [TailwindCSS][tech-tailwindcss].
+### [Algorithms and Data Structures](https://github.com/domwebber/algorithms-and-data-structures) (Work In Progress) ⚙️
+
+*Example implementations of various algorithms and data structures, built by myself.*
+
+Built with 🛠
+[TypeScript][tech-typescript],
+[Python][tech-python],
+[Bash][tech-bash],
+[PHP][tech-php],
+[Go][tech-golang],
+[Docker][tech-docker].
+
+### [EmmasCakeCreations.com][work-emmascakecreations] 🍰
+
+*Emma's Cake Creations' Website - built for [Relucent][work-relucent] & [Emma's Cake Creations][work-emmascakecreations]. Designed & Developed.*
+
+Built with 🛠
+[NextJS 13][tech-nextjs],
+[TypeScript][tech-typescript],
+[TailwindCSS][tech-tailwindcss].
+
+### [ThorpesNeuroRehab.com][work-thorpesneurorehab] 🩺
+
+*Thorpes Neuro Rehab's Website - built for [Relucent][work-relucent] & [Thorpes Neuro Rehab][work-thorpesneurorehab]. Designed & Developed.*
+
+Built with 🛠️
+[NextJS 13][tech-nextjs],
+[TypeScript][tech-typescript],
+[TailwindCSS][tech-tailwindcss].
+
+### [TheDerbyInn.co.uk][work-thederbyinn] 🍹
+
+*The Derby Inn's Website - built for [Relucent][work-relucent] & [The Derby Inn][work-thederbyinn]. Designed & Developed.*
+
+Built with 🛠
+[NextJS 13][tech-nextjs],
+[TypeScript][tech-typescript],
+[TailwindCSS][tech-tailwindcss].
 
 ## Articles & Updates 📝
 
@@ -145,6 +175,7 @@ I am passionate about constantly improving my skills and making myself both a be
 [tech-amqp]: https://www.amqp.org/ "The AMQP Specification's Website"
 
 <!-- Work References: -->
+[work-greatdetail]: https://awesome-golf.com/ "Awesome Golf (by Great Detail) Website"
 [work-emmascakecreations]: https://emmascakecreations.com "Emma's Cake Creations' Website"
 [work-thorpesneurorehab]: https://thorpesneurorehab.com "Thorpes Neuro Rehab's Website"
 [work-relucent]: https://github.com/Relucent-Software "Relucent's GitHub Profile"
