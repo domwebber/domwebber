@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@domwebberr"
+          feed_list: "https://medium.com/feed/@dom.webber"
           feed_names: "Medium"
           template: "$newline- [$feedName: $title]($url)"
           tag_post_pre_newline: true
