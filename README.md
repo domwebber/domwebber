@@ -6,34 +6,13 @@ I am passionate about constantly improving my skills and making myself both a be
 
 ## My skills 🏆
 
-> *Currently Learning:*
-> 🤖 [ChatGPT][tech-chatgpt],
-> 🦀 [Rust][tech-rust]
-
-- 📏 JavaScript,
-  ❄️ [TypeScript][tech-typescript],
-  🐘 [PHP][tech-php],
-  🐍 [Python][tech-python]
-- ☄️ [NodeJS][tech-nodejs],
-  ✨ [React][tech-reactjs],
-  ⛵ [NextJS][tech-nextjs],
-  🔌 [WordPress][tech-wordpress] (Plugins & Themes),
-  📖 [Symfony][tech-symfony],
-  🗒️ [Payload CMS][tech-payloadcms]
-- 📝 HTML,
-  💄 CSS,
-  💍 [SASS][tech-sass],
-  🦑 [TailwindCSS][tech-tailwindcss]
-- 💥 MySQL,
-  📃 SQL,
-  📑 [MongoDB][tech-mongodb],
-  📩 [AMQP][tech-amqp],
-  🕸️ [GraphQL][tech-graphql]
-- 🐳 [Docker][tech-docker],
-  🏃 [GitHub Actions][tech-github-actions]
-- 🛒 [Netlify][tech-netlify],
-  🧰 [Vercel][tech-vercel],
-  ⚙️ [NGINX][tech-nginx]
+- 📏 JavaScript, ❄️ [TypeScript][tech-typescript], 🐘 [PHP][tech-php], 🐍 [Python][tech-python]
+- ☄️ [NodeJS][tech-nodejs], ✨ [React][tech-reactjs], ⛵ [NextJS][tech-nextjs], 🔌 [WordPress][tech-wordpress] (Plugins & Themes), 📖 [Symfony][tech-symfony], 🗒️ [Payload CMS][tech-payloadcms]
+- 📝 HTML, 💄 CSS, 💍 [SASS][tech-sass], 🦑 [TailwindCSS][tech-tailwindcss]
+- 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb], 📩 [AMQP][tech-amqp],  🕸️ [GraphQL][tech-graphql]
+- 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions]
+- 🛒 [Netlify][tech-netlify], 🧰 [Vercel][tech-vercel], ⚙️ [NGINX][tech-nginx]
+- *Currently Learning:* 🤖 [ChatGPT][tech-chatgpt]
 
 ## My Work ✨
 
@@ -188,4 +167,4 @@ Built with 🛠
 [article-typescript-react-generics]: https://medium.com/p/d01f59d9375b "TypeScript + React Generic Component Typing"
 
 <!-- Personal Links: -->
-[me-medium]: https://medium.com/@domwebberr "My Medium Profile"
+[me-medium]: https://medium.com/@dom.webber "My Medium Profile"
