@@ -68,7 +68,7 @@ MySQL*
 [NextJS][tech-nextjs],
 [TailwindCSS][tech-tailwindcss],
 MySQL*
-
+  
 ### **Teaching Assistant** — [Basingstoke Academy of Dancing][work-basingstokeacademy] 💃
 
 ## My Portfolio 🎆
