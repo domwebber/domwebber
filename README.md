@@ -2,7 +2,7 @@
 
 I'm a software developer specialising in web applications and server/CLI software.
 I enjoy working with React, TypeScript, JamStack, APIs, Python, PHP, NodeJS, GraphQL and so much more.
-I am passionate about constantly improving my skills and making myself both a better person and software developer.
+I am passionate about constantly improving my skills and making myself both a better person and a software developer.
 
 ## My skills 🏆
 
