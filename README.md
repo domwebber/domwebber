@@ -92,8 +92,8 @@ I am passionate about constantly improving my skills and making myself both a be
 ### Latest 👋
 <!-- BLOG-POST-LIST:START -->
 
-- [Medium: NextJS 13 + TailwindCSS Responsive Background Image](https://medium.com/@domwebberr/nextjs-13-tailwindcss-responsive-background-image-eb8ead82ab4e?source=rss-7e4c514c9a3c------2)
-- [Medium: TypeScript + React Generic Component Typing](https://medium.com/@domwebberr/typescript-react-generic-component-typing-d01f59d9375b?source=rss-7e4c514c9a3c------2)
+- [Medium: NextJS 13 + TailwindCSS Responsive Background Image](https://medium.com/@dom.webber/nextjs-13-tailwindcss-responsive-background-image-eb8ead82ab4e?source=rss-7e4c514c9a3c------2)
+- [Medium: TypeScript + React Generic Component Typing](https://medium.com/@dom.webber/typescript-react-generic-component-typing-d01f59d9375b?source=rss-7e4c514c9a3c------2)
 <!-- BLOG-POST-LIST:END -->
 
 > See: [Medium Articles][me-medium]
