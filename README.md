@@ -12,7 +12,7 @@ I am passionate about constantly improving my skills and making myself both a be
 - 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb], 📩 [AMQP][tech-amqp],  🕸️ [GraphQL][tech-graphql]
 - 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions]
 - 🛒 [Netlify][tech-netlify], 🧰 [Vercel][tech-vercel], ⚙️ [NGINX][tech-nginx]
-- *Currently Learning:* 🤖 [ChatGPT][tech-chatgpt]
+- *Currently Learning:* 🤖 [ChatGPT][tech-chatgpt], 🏗️ [Terraform][tech-terraform]
 
 ## My Work ✨
 
@@ -152,6 +152,7 @@ Built with 🛠
 [tech-graphql]: https://graphql.org/ "The GraphQL Specification's Website"
 [tech-rust]: https://www.rust-lang.org/ "Rust's Website"
 [tech-amqp]: https://www.amqp.org/ "The AMQP Specification's Website"
+[tech-terraform]: https://www.terraform.io/ "Terraform by Hashicorp's Website"
 
 <!-- Work References: -->
 [work-greatdetail]: https://awesome-golf.com/ "Awesome Golf (by Great Detail) Website"
