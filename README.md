@@ -25,6 +25,7 @@ I am passionate about constantly improving my skills and making myself both a be
 [MongoDB][tech-mongodb],
 AMQP,
 [Docker][tech-docker],
+[Terraform][tech-terraform],
 [ChatGPT][tech-chatgpt]*
 
 ### **Software Development** — [Relucent][work-relucent] 🌐
@@ -38,6 +39,7 @@ MySQL,
 [MongoDB][tech-mongodb],
 AMQP,
 [Docker][tech-docker],
+[Terraform][tech-terraform],
 [Github Actions][tech-github-actions]*
 
 ### **Full Stack & Microservice Software Development** — [Lacey Tech][work-laceytech] 💻
