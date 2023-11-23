@@ -162,7 +162,7 @@ Built with 🛠
 [work-greatdetail]: https://awesome-golf.com/ "Awesome Golf (by Great Detail) Website"
 [work-emmascakecreations]: https://emmascakecreations.com "Emma's Cake Creations' Website"
 [work-thorpesneurorehab]: https://thorpesneurorehab.com "Thorpes Neuro Rehab's Website"
-[work-relucent]: https://github.com/Relucent-Software "Relucent's GitHub Profile"
+[work-relucent]: https://github.com/RelucentDev "Relucent's GitHub Profile"
 [work-thederbyinn]: https://thederbyinn.co.uk "The Derby Inn's Website"
 [work-laceytech]: https://lacey-tech.com "Lacey Tech's Website"
 [work-basingstokeacademy]: https://www.basingstokeacademy.co.uk "Basingstoke Academy of Dancing's Website"
