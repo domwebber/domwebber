@@ -14,6 +14,8 @@ I am passionate about constantly improving my skills and making myself both a be
 - 🛒 [Netlify][tech-netlify], 🧰 [Vercel][tech-vercel], ⚙️ [NGINX][tech-nginx]
 - *Currently Learning:* 🤖 [ChatGPT][tech-chatgpt], 🏗️ [Terraform][tech-terraform]
 
+> See [my GitLab profile][] for more contributions.
+
 ## My Work ✨
 
 > Contact me: <dom.webber@hotmail.com>
@@ -170,4 +172,5 @@ Built with 🛠
 [article-typescript-react-generics]: https://medium.com/p/d01f59d9375b "TypeScript + React Generic Component Typing"
 
 <!-- Personal Links: -->
+[my GitLab profile]: https://gitlab.com/domwebber "My GitLab Profile"
 [me-medium]: https://medium.com/@dom.webber "My Medium Profile"
