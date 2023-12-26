@@ -64,6 +64,7 @@ HTML,
 [SASS][tech-sass],
 MySQL*
 
+<!--
 ### **Bar Management & Stock Control** — [The Derby Inn][work-thederbyinn] 🍷
 
 *[TypeScript][tech-typescript],
@@ -72,6 +73,7 @@ MySQL*
 [NextJS][tech-nextjs],
 [TailwindCSS][tech-tailwindcss],
 MySQL*
+-->
 
 ## My Portfolio 🎆
 
@@ -152,7 +154,6 @@ Built with 🛠
 [tech-vercel]: https://vercel.com "Vercel's Website"
 [tech-chatgpt]: https://openai.com/blog/chatgpt "ChatGPT's Website"
 [tech-graphql]: https://graphql.org/ "The GraphQL Specification's Website"
-[tech-rust]: https://www.rust-lang.org/ "Rust's Website"
 [tech-amqp]: https://www.amqp.org/ "The AMQP Specification's Website"
 [tech-terraform]: https://www.terraform.io/ "Terraform by Hashicorp's Website"
 
@@ -163,7 +164,6 @@ Built with 🛠
 [work-relucent]: https://github.com/RelucentDev "Relucent's GitHub Profile"
 [work-thederbyinn]: https://thederbyinn.co.uk "The Derby Inn's Website"
 [work-laceytech]: https://lacey-tech.com "Lacey Tech's Website"
-[work-basingstokeacademy]: https://www.basingstokeacademy.co.uk "Basingstoke Academy of Dancing's Website"
 [work-thepriory]: https://www.theprioryprimaryschool.org.uk "The Priory Primary School's Website"
 
 <!-- Featured Articles: -->
