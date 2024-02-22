@@ -10,9 +10,9 @@ I am passionate about constantly improving my skills and making myself both a be
 - ☄️ [NodeJS][tech-nodejs], ✨ [React][tech-reactjs], ⛵ [NextJS][tech-nextjs], 🔌 [WordPress][tech-wordpress] (Plugins & Themes), 📖 [Symfony][tech-symfony], 🗒️ [Payload CMS][tech-payloadcms]
 - 📝 HTML, 💄 CSS, 💍 [SASS][tech-sass], 🦑 [TailwindCSS][tech-tailwindcss]
 - 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb], 📩 [AMQP][tech-amqp],  🕸️ [GraphQL][tech-graphql]
-- 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions]
+- 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions], 🏗️ [Terraform][tech-terraform]
 - 🛒 [Netlify][tech-netlify], 🧰 [Vercel][tech-vercel], ⚙️ [NGINX][tech-nginx]
-- *Currently Learning:* 🤖 [ChatGPT][tech-chatgpt], 🏗️ [Terraform][tech-terraform]
+- *Currently Learning:* ☁️ [Microsoft Azure][tech-azure].
 
 > See [my GitLab profile][] for more contributions.
 
@@ -156,6 +156,7 @@ Built with 🛠
 [tech-graphql]: https://graphql.org/ "The GraphQL Specification's Website"
 [tech-amqp]: https://www.amqp.org/ "The AMQP Specification's Website"
 [tech-terraform]: https://www.terraform.io/ "Terraform by Hashicorp's Website"
+[tech-azure]: https://azure.microsoft.com/ "Microsoft Azure's Website"
 
 <!-- Work References: -->
 [work-greatdetail]: https://awesome-golf.com/ "Awesome Golf (by Great Detail) Website"
