@@ -77,6 +77,7 @@ MySQL*
 
 ## My Portfolio 🎆
 
+<!--
 ### [Algorithms and Data Structures](https://github.com/domwebber/algorithms-and-data-structures) (Work In Progress) ⚙️
 
 *Example implementations of various algorithms and data structures, built by myself.*
@@ -88,6 +89,7 @@ Built with 🛠
 [PHP][tech-php],
 [Go][tech-golang],
 [Docker][tech-docker].
+-->
 
 ### [EmmasCakeCreations.com][work-emmascakecreations] 🍰
 
