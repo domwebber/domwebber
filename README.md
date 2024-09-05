@@ -13,7 +13,7 @@ I'm also interested in:
 ☄️ [NodeJS][tech-nodejs], ✨ [React][tech-reactjs], ⛵ [NextJS][tech-nextjs], 🔌 [WordPress][tech-wordpress] (Plugins & Themes), 📖 [Symfony][tech-symfony], 🗒️ [Payload CMS][tech-payloadcms].
 📝 HTML, 💄 CSS, 💍 [SASS][tech-sass], 🦑 [TailwindCSS][tech-tailwindcss].
 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb], 📩 [AMQP][tech-amqp],  🕸️ [GraphQL][tech-graphql], 📚 [Prisma][tech-prisma].
-🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions], 🏗️ [Terraform][tech-terraform].
+🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions], 🧫 [GitLab CI][tech-gitlab-ci] 🏗️ [Terraform][tech-terraform].
 🛒 [Netlify][tech-netlify], 🧰 [Vercel][tech-vercel], ⚙️ [NGINX][tech-nginx], 🌩️ [Microsoft Azure][tech-azure], ☁️ [Amazon Web Services][tech-aws].
 
 <!-- Technologies: -->
@@ -43,3 +43,4 @@ I'm also interested in:
 [tech-azure]: https://azure.microsoft.com "Microsoft Azure's Website"
 [tech-aws]: https://aws.amazon.com "Amazon Web Services' Website"
 [tech-prisma]: https://github.com/prisma/prisma "Prisma's GitHub Repository"
+[tech-gitlab-ci]: https://about.gitlab.com/solutions/continuous-integration/ "GitLab Continuous Integration Solutions Feature Page"
