@@ -1,8 +1,8 @@
 # Hi, I'm Dom 👋
 
-- ⚙️ I'm passionate about `TypeScript`, `Terraform`, `JamStack`, `React`, `Docker`.
+- ⚙️ I'm passionate about `TypeScript`, `Terraform`, `JamStack`, `React`, `Docker` and Software Security.
 - 🔭 I'm currently working as a **Software Developer @ Great Detail**.
-- 💭 I'm currently learning about **Software Pentesting**.
+<!-- - 💭 I'm currently learning about **Software Pentesting**. -->
 
 > More from me: [domwebber.dev](https://domwebber.dev) - <dom.webber@hotmail.com>.
 
