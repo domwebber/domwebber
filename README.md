@@ -11,7 +11,7 @@
 
 I'm also interested in:
 📏 JavaScript, ❄️ [TypeScript][tech-typescript], 🐘 [PHP][tech-php], 🐍 [Python][tech-python].
-☄️ [NodeJS][tech-nodejs], ✨ [React][tech-reactjs], ⛵ [NextJS][tech-nextjs], 🔌 [WordPress][tech-wordpress] (Plugins & Themes), 📖 [Symfony][tech-symfony], 🗒️ [Payload CMS][tech-payloadcms].
+☄️ [NodeJS][tech-nodejs], ✨ [React][tech-reactjs], ⛵ [NextJS][tech-nextjs], <!--🔌 [WordPress][tech-wordpress] (Plugins & Themes), 📖 [Symfony][tech-symfony],--> 🗒️ [Payload CMS][tech-payloadcms].
 📝 HTML, 💄 CSS, 💍 [SASS][tech-sass], 🦑 [TailwindCSS][tech-tailwindcss].
 💥 MySQL, 📃 SQL, 📑 [MongoDB][tech-mongodb], 📩 [AMQP][tech-amqp],  🕸️ [GraphQL][tech-graphql], 📚 [Prisma][tech-prisma].
 🐳 [Docker][tech-docker], 🏃 [GitHub Actions][tech-github-actions], 🧫 [GitLab CI][tech-gitlab-ci], 🏗️ [Terraform][tech-terraform].
